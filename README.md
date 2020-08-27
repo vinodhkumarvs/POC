@@ -15,6 +15,9 @@ dependency management.
 
 # Requirements
 
+#added some more functionalities in devlope brnach
+
+
 Docker must be installed. That's it. You do not need to have Go installed.
 
 
